@@ -1,28 +1,10 @@
 {
   "tasks": [
     {
-      "id": 2,
-      "text": "Meeting at School",
-      "day": "Feb 7th at 1:30pm",
-      "reminder": true
-    },
-    {
-      "id": 3,
-      "text": "Coding Time",
-      "day": "Sept 9 at 1:30pm",
-      "reminder": false
-    },
-    {
-      "text": "Learn to Code",
-      "day": "Sept 19",
+      "text": "Learn React with Brad",
+      "day": "Sept 26, 2021",
       "reminder": true,
-      "id": 4
-    },
-    {
-      "text": "Re-BradTraversy React",
-      "day": "Sept 19",
-      "reminder": true,
-      "id": 5
+      "id": 1
     }
   ]
 }
